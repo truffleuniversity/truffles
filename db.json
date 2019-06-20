@@ -1,0 +1,37 @@
+{
+	"truffles": [{
+		"title": "Truffle X",
+		"type": "object",
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Identifies the asset to which this NFT represents"
+			},
+			"description": {
+				"type": "string",
+				"description": "Describes the asset to which this NFT represents"
+			},
+			"image": {
+				"type": "string",
+				"description": "/"
+			}
+		}
+	}, {
+		"title": "Truffle Y",
+		"type": "object",
+		"properties": {
+			"name": {
+				"type": "string",
+				"description": "Identifies the asset to which this NFT represents"
+			},
+			"description": {
+				"type": "string",
+				"description": "Describes the asset to which this NFT represents"
+			},
+			"image": {
+				"type": "string",
+				"description": "/"
+			}
+		}
+	}]
+}
