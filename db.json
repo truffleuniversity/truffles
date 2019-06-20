@@ -1,6 +1,7 @@
 {
 	"truffles": [{
-		"title": "Truffle X",
+        "id": 1,
+        "title": "Truffle X",
 		"type": "object",
 		"properties": {
 			"name": {
@@ -17,6 +18,7 @@
 			}
 		}
 	}, {
+        "id": 2,
 		"title": "Truffle Y",
 		"type": "object",
 		"properties": {
